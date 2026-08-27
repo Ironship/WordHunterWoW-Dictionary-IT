@@ -1,0 +1,9 @@
+## Interface: 120100
+## Title: QuestWordHunter - Italian Dictionary
+## Notes: Optional Italian-English quest dictionary. Requires WordHunterWoW.
+## Author: Ironship
+## Version: 0.1.0
+## Dependencies: WordHunterWoW
+
+Data/DictionaryIT.lua
+Bootstrap.lua
