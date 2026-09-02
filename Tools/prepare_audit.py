@@ -45,7 +45,7 @@ def main():
     # Anything already audited, in either dictionary or in a wave still on disk.
     done = set()
     for loc in LOCALES if not args.all else ():
-        for r in load(ROOT / f"Data/Curated{loc.upper()}.jsonl"):
+        for r in load(ROOT / f"Data/Curated{loc[:2].upper()}.jsonl"):
             if r.get("key"):
                 done.add(r["key"])
     outdir = WORKDIR / "out"
