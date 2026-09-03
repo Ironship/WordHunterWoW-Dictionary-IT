@@ -1,0 +1,10 @@
+Processing batch 08 entries:
+
+Key findings to address:
+1. Line 10 (versata): "paid" is wrong → should be "poured/shed"
+2. Line 19 (viaggiò): "voyage" (noun) is wrong → should be "travelled/journeyed" (verb)
+3. Line 52 (visibilio): "visibility" is completely wrong → should relate to ecstasy/frenzy
+4. Line 66 (Vos): "Yours" is wrong → should be "Vos" (proper name)
+5. Line 104 (yseralide): "yseralis" should be "yseralide"
+
+Most other entries are correct. Many are proper names that need empty notes.
