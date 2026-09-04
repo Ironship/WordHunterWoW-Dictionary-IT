@@ -2,7 +2,7 @@
 
 Learning Italian from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made Italian→English glossary built from real quest text, so the words you click already have a meaning waiting. **56,853 words.**
+This is a ready-made Italian→English glossary built from real quest text, so the words you click already have a meaning waiting. **69,618 words.**
 
 ## Install
 
@@ -27,7 +27,7 @@ There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionar
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1. All rights reserved.
+Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
 
 ## Rebuild (maintainers)
 

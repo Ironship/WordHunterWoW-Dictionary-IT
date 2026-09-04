@@ -48,6 +48,9 @@ def main():
             if not line.strip(): continue
             record = json.loads(line)
             if english_leftover(record): continue
+            # Spanish leftovers (á í ó ú ñ) are not Italian; Italian uses à è é ì ò ù.
+            if any(c in (record.get("key") or "") for c in "áíóúñ¿¡"):
+                continue
             if record.get("translation"): records[record["key"]] = record
     # WoW Lua 5.1: 2^18-1 constants per function. Nested functions avoid
     # "constant table overflow" once unique strings pass that cap.

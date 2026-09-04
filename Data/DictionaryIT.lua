@@ -1172,7 +1172,6 @@ WordHunterWoW_Dictionary_IT["adrestes"] = { word = "Adrestes", translation = "Ad
 WordHunterWoW_Dictionary_IT["adrianna"] = { word = "Adrianna", translation = "Adrianna", note = "" }
 WordHunterWoW_Dictionary_IT["adrima"] = { word = "Adrima", translation = "Adrima", note = "" }
 WordHunterWoW_Dictionary_IT["adrine"] = { word = "Adrine", translation = "Adrine", note = "" }
-WordHunterWoW_Dictionary_IT["adueñen"] = { word = "adueñen", translation = "adueñen", note = "" }
 WordHunterWoW_Dictionary_IT["adulatori"] = { word = "adulatori", translation = "flatterers", note = "" }
 WordHunterWoW_Dictionary_IT["adulta"] = { word = "adulta", translation = "adult", note = "feminine singular form; serpe adulta means adult serpent" }
 WordHunterWoW_Dictionary_IT["adulte"] = { word = "adulte", translation = "adults", note = "adulte is the feminine plural of adulto, used for the tigresses" }
@@ -1876,7 +1875,6 @@ WordHunterWoW_Dictionary_IT["ahr"] = { word = "Ahr", translation = "Ahr", note =
 WordHunterWoW_Dictionary_IT["ahunae"] = { word = "Ahunae", translation = "Ahunae", note = "" }
 WordHunterWoW_Dictionary_IT["ahune"] = { word = "Ahune", translation = "Ahune", note = "" }
 WordHunterWoW_Dictionary_IT["ahuurn"] = { word = "Ahuurn", translation = "Ahuurn", note = "" }
-WordHunterWoW_Dictionary_IT["ahí"] = { word = "ahí", translation = "ouch", note = "" }
 WordHunterWoW_Dictionary_IT["ai"] = { word = "ai", translation = "at the", note = "contraction of a + i; ai tuoi piedi means at your feet" }
 WordHunterWoW_Dictionary_IT["ai'twen"] = { word = "Ai'twen", translation = "Ai'twen", note = "" }
 WordHunterWoW_Dictionary_IT["aid"] = { word = "aid", translation = "aid", note = "" }
@@ -4560,7 +4558,6 @@ WordHunterWoW_Dictionary_IT["aquilon"] = { word = "Aquilon", translation = "Aqui
 WordHunterWoW_Dictionary_IT["aquilone"] = { word = "aquilone", translation = "kite", note = "aquilone = kite; aquila is eagle" }
 WordHunterWoW_Dictionary_IT["aquiloni"] = { word = "aquiloni", translation = "kites", note = "aquilone means kite; the plural changes -e to -i" }
 WordHunterWoW_Dictionary_IT["aquinne"] = { word = "Aquinne", translation = "Aquinne", note = "" }
-WordHunterWoW_Dictionary_IT["aquí"] = { word = "aquí", translation = "here", note = "Spanish, not Italian: aquí = here" }
 WordHunterWoW_Dictionary_IT["aqva"] = { word = "aqva", translation = "aqva", note = "" }
 WordHunterWoW_Dictionary_IT["ar"] = { word = "Ar", translation = "Ar", note = "" }
 WordHunterWoW_Dictionary_IT["ar'gorok"] = { word = "Ar'gorok", translation = "Ar'gorok", note = "" }
@@ -9202,7 +9199,6 @@ WordHunterWoW_Dictionary_IT["caduta"] = { word = "caduta", translation = "fallen
 WordHunterWoW_Dictionary_IT["cadute"] = { word = "cadute", translation = "have fallen", note = "cadere sotto l'influenza = fall under the influence" }
 WordHunterWoW_Dictionary_IT["caduti"] = { word = "caduti", translation = "fallen", note = "cadere preda di = fall prey to" }
 WordHunterWoW_Dictionary_IT["caduto"] = { word = "caduto", translation = "fallen", note = "cadere = fall; caduto can also mean dropped or fallen" }
-WordHunterWoW_Dictionary_IT["cadáveres"] = { word = "cadáveres", translation = "corpses", note = "" }
 WordHunterWoW_Dictionary_IT["caedmos"] = { word = "Caedmos", translation = "Caedmos", note = "" }
 WordHunterWoW_Dictionary_IT["caelastrasz"] = { word = "Caelastrasz", translation = "Caelastrasz", note = "" }
 WordHunterWoW_Dictionary_IT["caelen"] = { word = "Caelen", translation = "Caelen", note = "" }
@@ -9649,7 +9645,6 @@ WordHunterWoW_Dictionary_IT["cannellam"] = { word = "Cannellam", translation = "
 WordHunterWoW_Dictionary_IT["cannemozze"] = { word = "cannemozze", translation = "cannemozze", note = "" }
 WordHunterWoW_Dictionary_IT["canneti"] = { word = "canneti", translation = "reeds", note = "" }
 WordHunterWoW_Dictionary_IT["canneto"] = { word = "Canneto", translation = "Canneto", note = "" }
-WordHunterWoW_Dictionary_IT["cannibali"] = { word = "cannibali", translation = "cannibals", note = "the word comes through Spanish caníbal, linked to the Carib people" }
 WordHunterWoW_Dictionary_IT["cannibalismo"] = { word = "cannibalismo", translation = "cannibalism", note = "from cannibale, ultimately related to the Carib people named by early Europeans" }
 WordHunterWoW_Dictionary_IT["cannings"] = { word = "Cannings", translation = "Cannings", note = "" }
 WordHunterWoW_Dictionary_IT["cannocchiale"] = { word = "cannocchiale", translation = "telescope; spyglass", note = "literal sense is telescope; a handheld quest item may be called a spyglass" }
@@ -10759,7 +10754,6 @@ WordHunterWoW_Dictionary_IT["challe"] = { word = "Challe", translation = "Challe
 WordHunterWoW_Dictionary_IT["challenge"] = { word = "challenge", translation = "challenge", note = "" }
 WordHunterWoW_Dictionary_IT["challiane"] = { word = "Challiane", translation = "Challiane", note = "" }
 WordHunterWoW_Dictionary_IT["chambers"] = { word = "chambers", translation = "chambers", note = "" }
-WordHunterWoW_Dictionary_IT["champiñones"] = { word = "champiñones", translation = "mushrooms", note = "spanish champiñón means mushroom; the ñ is part of the word" }
 WordHunterWoW_Dictionary_IT["chance"] = { word = "chance", translation = "chance", note = "italian uses chance as an English loanword; avere una chance means have a chance" }
 WordHunterWoW_Dictionary_IT["chaney"] = { word = "Chaney", translation = "Chaney", note = "" }
 WordHunterWoW_Dictionary_IT["chani"] = { word = "Chani", translation = "Chani", note = "" }
@@ -12852,7 +12846,6 @@ WordHunterWoW_Dictionary_IT["confusionale"] = { word = "confusionale", translati
 WordHunterWoW_Dictionary_IT["confusionarie"] = { word = "confusionarie", translation = "confusing", note = "" }
 WordHunterWoW_Dictionary_IT["confusionario"] = { word = "confusionario", translation = "confusing", note = "" }
 WordHunterWoW_Dictionary_IT["confusione"] = { word = "confusione", translation = "confusion", note = "in preda alla confusione describes someone as confused or in confusion" }
-WordHunterWoW_Dictionary_IT["confusión"] = { word = "confusión", translation = "confusion", note = "" }
 WordHunterWoW_Dictionary_IT["confuso"] = { word = "confuso", translation = "confused", note = "confondere can mean confuse or mix up; here the tree is confused or corrupted" }
 WordHunterWoW_Dictionary_IT["confutare"] = { word = "confutare", translation = "refute", note = "" }
 WordHunterWoW_Dictionary_IT["confutarla"] = { word = "confutarla", translation = "refute it", note = "" }
@@ -14554,7 +14547,6 @@ WordHunterWoW_Dictionary_IT["creti"] = { word = "creti", translation = "creti", 
 WordHunterWoW_Dictionary_IT["cretini"] = { word = "cretini", translation = "idiots", note = "" }
 WordHunterWoW_Dictionary_IT["cretino"] = { word = "cretino", translation = "cretin", note = "" }
 WordHunterWoW_Dictionary_IT["crezca"] = { word = "crezca", translation = "grow", note = "" }
-WordHunterWoW_Dictionary_IT["creía"] = { word = "Creía", translation = "Creía", note = "" }
 WordHunterWoW_Dictionary_IT["creò"] = { word = "creò", translation = "created", note = "passato remoto of creare; it describes a completed past event" }
 WordHunterWoW_Dictionary_IT["cricca"] = { word = "cricca", translation = "clique", note = "" }
 WordHunterWoW_Dictionary_IT["criminale"] = { word = "criminale", translation = "criminal", note = "here criminale is a noun; as an adjective it also means criminal" }
@@ -15021,7 +15013,6 @@ WordHunterWoW_Dictionary_IT["cyril"] = { word = "Cyril", translation = "Cyril", 
 WordHunterWoW_Dictionary_IT["cyrille"] = { word = "Cyrille", translation = "Cyrille", note = "" }
 WordHunterWoW_Dictionary_IT["cyrukh"] = { word = "Cyrukh", translation = "Cyrukh", note = "" }
 WordHunterWoW_Dictionary_IT["cyrus"] = { word = "Cyrus", translation = "Cyrus", note = "" }
-WordHunterWoW_Dictionary_IT["cómo"] = { word = "cómo", translation = "how", note = "" }
 WordHunterWoW_Dictionary_IT["c’est"] = { word = "c’est", translation = "it is", note = "french contraction of ce est; this line is French, not Italian" }
 WordHunterWoW_Dictionary_IT["d'abilità"] = { word = "d'abilità", translation = "of skill", note = "" }
 WordHunterWoW_Dictionary_IT["d'abominio"] = { word = "d'Abominio", translation = "of Abomination", note = "" }
@@ -17196,7 +17187,6 @@ WordHunterWoW_Dictionary_IT["demoralizzerà"] = { word = "demoralizzerà", trans
 WordHunterWoW_Dictionary_IT["demoralizziamoli"] = { word = "Demoralizziamoli", translation = "Let's demoralize them", note = "" }
 WordHunterWoW_Dictionary_IT["demorde"] = { word = "demorde", translation = "gives up", note = "in non demorde, the negation gives 'doesn't give up'; demordere itself means give up" }
 WordHunterWoW_Dictionary_IT["dempsey"] = { word = "Dempsey", translation = "Dempsey", note = "" }
-WordHunterWoW_Dictionary_IT["demás"] = { word = "demás", translation = "more", note = "" }
 WordHunterWoW_Dictionary_IT["den"] = { word = "Den", translation = "Den", note = "" }
 WordHunterWoW_Dictionary_IT["dena"] = { word = "Dena", translation = "Dena", note = "" }
 WordHunterWoW_Dictionary_IT["denalan"] = { word = "Denalan", translation = "Denalan", note = "" }
@@ -17565,7 +17555,6 @@ WordHunterWoW_Dictionary_IT["detronizzata"] = { word = "Detronizzata", translati
 WordHunterWoW_Dictionary_IT["detronizzato"] = { word = "detronizzato", translation = "dethroned", note = "" }
 WordHunterWoW_Dictionary_IT["detronizzazione"] = { word = "detronizzazione", translation = "dethronement", note = "" }
 WordHunterWoW_Dictionary_IT["detry"] = { word = "Detry", translation = "Detry", note = "" }
-WordHunterWoW_Dictionary_IT["detrás"] = { word = "detrás", translation = "detrás", note = "" }
 WordHunterWoW_Dictionary_IT["detta"] = { word = "detta", translation = "said", note = "dirsi = to say to oneself; mi sono detta means 'I said to myself'" }
 WordHunterWoW_Dictionary_IT["dettagli"] = { word = "dettagli", translation = "details", note = "dettaglio → dettagli is the masculine plural" }
 WordHunterWoW_Dictionary_IT["dettagliata"] = { word = "dettagliata", translation = "detailed", note = "feminine singular of dettagliato, agreeing with the thing described" }
@@ -19976,7 +19965,6 @@ WordHunterWoW_Dictionary_IT["dà"] = { word = "dà", translation = "gives", note
 WordHunterWoW_Dictionary_IT["dèi"] = { word = "dèi", translation = "of the", note = "" }
 WordHunterWoW_Dictionary_IT["décide"] = { word = "décide", translation = "decides", note = "french décide means decides; this line is not Italian" }
 WordHunterWoW_Dictionary_IT["dì"] = { word = "Dì", translation = "tell", note = "dì is the singular imperative of dire, not di meaning of or from" }
-WordHunterWoW_Dictionary_IT["día"] = { word = "día", translation = "day", note = "" }
 WordHunterWoW_Dictionary_IT["d’main"] = { word = "d’main", translation = "d'main", note = "" }
 WordHunterWoW_Dictionary_IT["d’mal"] = { word = "d’mal", translation = "d'ill", note = "" }
 WordHunterWoW_Dictionary_IT["d’obéir"] = { word = "d’obéir", translation = "d'obéir", note = "" }
@@ -21504,7 +21492,6 @@ WordHunterWoW_Dictionary_IT["essiccato"] = { word = "Essiccato", translation = "
 WordHunterWoW_Dictionary_IT["esso"] = { word = "esso", translation = "it", note = "esso is a formal masculine 'it'; everyday Italian often uses lo or lui instead" }
 WordHunterWoW_Dictionary_IT["est"] = { word = "est", translation = "east", note = "like nord and sud, a Germanic borrowing via French" }
 WordHunterWoW_Dictionary_IT["estaba"] = { word = "estaba", translation = "was", note = "" }
-WordHunterWoW_Dictionary_IT["estaría"] = { word = "estaría", translation = "estaria", note = "" }
 WordHunterWoW_Dictionary_IT["estasi"] = { word = "estasi", translation = "ecstasy", note = "" }
 WordHunterWoW_Dictionary_IT["estasiante"] = { word = "estasiante", translation = "entrancing", note = "" }
 WordHunterWoW_Dictionary_IT["estasiato"] = { word = "estasiato", translation = "ecstatic", note = "" }
@@ -21640,8 +21627,6 @@ WordHunterWoW_Dictionary_IT["estremità"] = { word = "estremità", translation =
 WordHunterWoW_Dictionary_IT["estremo"] = { word = "estremo", translation = "extreme", note = "from Latin extremus, the superlative of exter (outer) - the outermost point" }
 WordHunterWoW_Dictionary_IT["estrid"] = { word = "Estrid", translation = "Estrid", note = "" }
 WordHunterWoW_Dictionary_IT["estulan"] = { word = "Estulan", translation = "Estulan", note = "" }
-WordHunterWoW_Dictionary_IT["está"] = { word = "está", translation = "is", note = "spanish, not italian: está is the third-person singular of estar, meaning is" }
-WordHunterWoW_Dictionary_IT["están"] = { word = "están", translation = "are", note = "spanish third-person plural of estar: they are" }
 WordHunterWoW_Dictionary_IT["esuberante"] = { word = "esuberante", translation = "exuberant", note = "from Latin exuberare, to overflow; it describes abundant energy or growth" }
 WordHunterWoW_Dictionary_IT["esula"] = { word = "esula", translation = "esula", note = "" }
 WordHunterWoW_Dictionary_IT["esule"] = { word = "Esule", translation = "Exile", note = "" }
@@ -28231,7 +28216,6 @@ WordHunterWoW_Dictionary_IT["importanza"] = { word = "importanza", translation =
 WordHunterWoW_Dictionary_IT["importare"] = { word = "importare", translation = "matter; be important", note = "in this context importare means matter, not bring goods into a country" }
 WordHunterWoW_Dictionary_IT["importargli"] = { word = "importargli", translation = "matter to him", note = "" }
 WordHunterWoW_Dictionary_IT["importarne"] = { word = "importarne", translation = "import it", note = "" }
-WordHunterWoW_Dictionary_IT["importaría"] = { word = "importaría", translation = "it would matter", note = "" }
 WordHunterWoW_Dictionary_IT["importata"] = { word = "importata", translation = "imported", note = "" }
 WordHunterWoW_Dictionary_IT["importati"] = { word = "importati", translation = "imported", note = "" }
 WordHunterWoW_Dictionary_IT["importato"] = { word = "importato", translation = "imported", note = "here it means brought in from another region" }
@@ -28919,7 +28903,6 @@ WordHunterWoW_Dictionary_IT["incoronati"] = { word = "incoronati", translation =
 WordHunterWoW_Dictionary_IT["incoronato"] = { word = "incoronato", translation = "crowned", note = "" }
 WordHunterWoW_Dictionary_IT["incoronazione"] = { word = "incoronazione", translation = "coronation", note = "" }
 WordHunterWoW_Dictionary_IT["incorpora"] = { word = "incorpora", translation = "incorporate", note = "" }
-WordHunterWoW_Dictionary_IT["incorporación"] = { word = "incorporación", translation = "incorporation", note = "" }
 WordHunterWoW_Dictionary_IT["incorporando"] = { word = "incorporando", translation = "incorporating", note = "" }
 WordHunterWoW_Dictionary_IT["incorporare"] = { word = "incorporare", translation = "incorporate", note = "incorporare means add something into a larger whole" }
 WordHunterWoW_Dictionary_IT["incorporarla"] = { word = "incorporarla", translation = "incorporate it", note = "" }
@@ -31058,7 +31041,6 @@ WordHunterWoW_Dictionary_IT["inviti"] = { word = "inviti", translation = "invita
 WordHunterWoW_Dictionary_IT["invitiamo"] = { word = "invitiamo", translation = "we invite", note = "-iamo marks the first-person plural present" }
 WordHunterWoW_Dictionary_IT["invito"] = { word = "invito", translation = "invitation", note = "invitare = invite; invito can be the invitation or the act of inviting" }
 WordHunterWoW_Dictionary_IT["invitò"] = { word = "invitò", translation = "invitation", note = "" }
-WordHunterWoW_Dictionary_IT["invitó"] = { word = "invitó", translation = "invitation", note = "" }
 WordHunterWoW_Dictionary_IT["inviò"] = { word = "inviò", translation = "sent", note = "inviò is the accented passato remoto of inviare" }
 WordHunterWoW_Dictionary_IT["invoca"] = { word = "Invoca", translation = "invoke", note = "imperative of invocare; invocare la magia means call upon or invoke magic" }
 WordHunterWoW_Dictionary_IT["invocalo"] = { word = "Invocalo", translation = "Invoke him", note = "" }
@@ -35874,7 +35856,6 @@ WordHunterWoW_Dictionary_IT["lyssara"] = { word = "Lyssara", translation = "Lyss
 WordHunterWoW_Dictionary_IT["lytheron"] = { word = "Lytheron", translation = "Lytheron", note = "" }
 WordHunterWoW_Dictionary_IT["là"] = { word = "là", translation = "there", note = "the accent is the whole difference: la is the, la with the accent is there" }
 WordHunterWoW_Dictionary_IT["lì"] = { word = "lì", translation = "there", note = "the accent distinguishes lì = there from li = them" }
-WordHunterWoW_Dictionary_IT["líder"] = { word = "líder", translation = "leader", note = "" }
 WordHunterWoW_Dictionary_IT["l’air"] = { word = "l’air", translation = "the air", note = "" }
 WordHunterWoW_Dictionary_IT["l’équipage"] = { word = "l’équipage", translation = "the team", note = "" }
 WordHunterWoW_Dictionary_IT["m'abbandona"] = { word = "m'abbandona", translation = "abandons me", note = "" }
@@ -36000,7 +35981,6 @@ WordHunterWoW_Dictionary_IT["madrepietra"] = { word = "Madrepietra", translation
 WordHunterWoW_Dictionary_IT["madrescaglia"] = { word = "Madrescaglia", translation = "Motherscale", note = "" }
 WordHunterWoW_Dictionary_IT["madri"] = { word = "Madri", translation = "Mothers", note = "madri is the plural of madre; Madri della Stirpe = Mothers of the Brood" }
 WordHunterWoW_Dictionary_IT["madrina"] = { word = "Madrina", translation = "Godmother", note = "" }
-WordHunterWoW_Dictionary_IT["maduración"] = { word = "maduración", translation = "maturation", note = "" }
 WordHunterWoW_Dictionary_IT["madurando"] = { word = "madurando", translation = "madurando", note = "" }
 WordHunterWoW_Dictionary_IT["mae"] = { word = "Mae", translation = "Mae", note = "" }
 WordHunterWoW_Dictionary_IT["maedin"] = { word = "Maedin", translation = "Maedin", note = "" }
@@ -37587,7 +37567,6 @@ WordHunterWoW_Dictionary_IT["melmoso"] = { word = "Melmoso", translation = "Slim
 WordHunterWoW_Dictionary_IT["melodia"] = { word = "melodia", translation = "melody", note = "melodia is related to English melody through Latin melodia" }
 WordHunterWoW_Dictionary_IT["melodiche"] = { word = "melodiche", translation = "melodic", note = "" }
 WordHunterWoW_Dictionary_IT["melodici"] = { word = "melodici", translation = "melodic", note = "plurale of melodico" }
-WordHunterWoW_Dictionary_IT["melodie"] = { word = "melodie", translation = "melodies", note = "melodia comes from Greek melōidía, singing or music" }
 WordHunterWoW_Dictionary_IT["melodiosamente"] = { word = "melodiosamente", translation = "melodiously", note = "" }
 WordHunterWoW_Dictionary_IT["melodioso"] = { word = "melodioso", translation = "melodious", note = "" }
 WordHunterWoW_Dictionary_IT["melone"] = { word = "melone", translation = "melon", note = "melone is the ordinary word for melon; context is clipped before the object is named" }
@@ -38387,7 +38366,6 @@ WordHunterWoW_Dictionary_IT["misha"] = { word = "Misha", translation = "Misha", 
 WordHunterWoW_Dictionary_IT["mishi"] = { word = "Mishi", translation = "Mishi", note = "" }
 WordHunterWoW_Dictionary_IT["mishka"] = { word = "Mishka", translation = "Mishka", note = "" }
 WordHunterWoW_Dictionary_IT["misirin"] = { word = "Misirin", translation = "Misirin", note = "" }
-WordHunterWoW_Dictionary_IT["misión"] = { word = "misión", translation = "mission", note = "" }
 WordHunterWoW_Dictionary_IT["mismo"] = { word = "mismo", translation = "mismo", note = "" }
 WordHunterWoW_Dictionary_IT["missa"] = { word = "Missa", translation = "Missa", note = "" }
 WordHunterWoW_Dictionary_IT["missile"] = { word = "missile", translation = "missile", note = "" }
@@ -38794,7 +38772,6 @@ WordHunterWoW_Dictionary_IT["montuosa"] = { word = "montuosa", translation = "mo
 WordHunterWoW_Dictionary_IT["montuosi"] = { word = "montuosi", translation = "mountainous", note = "" }
 WordHunterWoW_Dictionary_IT["montuoso"] = { word = "montuoso", translation = "mountainous", note = "" }
 WordHunterWoW_Dictionary_IT["monty"] = { word = "Monty", translation = "Monty", note = "" }
-WordHunterWoW_Dictionary_IT["montón"] = { word = "montón", translation = "montón", note = "" }
 WordHunterWoW_Dictionary_IT["monumentale"] = { word = "monumentale", translation = "monumental", note = "monumentale derives from monumento, monument" }
 WordHunterWoW_Dictionary_IT["monumentali"] = { word = "monumentali", translation = "monumental", note = "" }
 WordHunterWoW_Dictionary_IT["monumenti"] = { word = "monumenti", translation = "monuments", note = "monumento comes from Latin monere, to remind; monuments preserve a memory" }
@@ -39498,10 +39475,7 @@ WordHunterWoW_Dictionary_IT["mythrax"] = { word = "Mythrax", translation = "Myth
 WordHunterWoW_Dictionary_IT["myza"] = { word = "Myza", translation = "Myza", note = "" }
 WordHunterWoW_Dictionary_IT["myzerian"] = { word = "Myzerian", translation = "Myzerian", note = "" }
 WordHunterWoW_Dictionary_IT["myzrael"] = { word = "Myzrael", translation = "Myzrael", note = "the earth princess imprisoned by giants beneath the Arathi Highlands" }
-WordHunterWoW_Dictionary_IT["más"] = { word = "más", translation = "more", note = "Spanish más means more; this row is Spanish despite the itIT label" }
 WordHunterWoW_Dictionary_IT["même"] = { word = "même", translation = "meme", note = "" }
-WordHunterWoW_Dictionary_IT["mí"] = { word = "mí", translation = "me", note = "" }
-WordHunterWoW_Dictionary_IT["mía"] = { word = "mía", translation = "my", note = "" }
 WordHunterWoW_Dictionary_IT["n'abominio"] = { word = "n'abominio", translation = "no abomination", note = "" }
 WordHunterWoW_Dictionary_IT["n'accampamento"] = { word = "n'accampamento", translation = "n camp", note = "" }
 WordHunterWoW_Dictionary_IT["n'accesso"] = { word = "n'accesso", translation = "n access", note = "" }
@@ -41818,7 +41792,6 @@ WordHunterWoW_Dictionary_IT["opali"] = { word = "opali", translation = "opals", 
 WordHunterWoW_Dictionary_IT["opalina"] = { word = "Opalina", translation = "Opal; Opaline", note = "opalina = opal-like, pearlescent; shell name" }
 WordHunterWoW_Dictionary_IT["open"] = { word = "open", translation = "open", note = "" }
 WordHunterWoW_Dictionary_IT["opera"] = { word = "opera", translation = "work", note = "opera d'arte = work of art; the musical sense is a borrowing back from Italian" }
-WordHunterWoW_Dictionary_IT["operación"] = { word = "operación", translation = "operation", note = "" }
 WordHunterWoW_Dictionary_IT["operai"] = { word = "operai", translation = "workers", note = "plural of operaio; operaio is a worker" }
 WordHunterWoW_Dictionary_IT["operaie"] = { word = "operaie", translation = "workers", note = "plural feminine of operaio" }
 WordHunterWoW_Dictionary_IT["operandi"] = { word = "operandi", translation = "operands", note = "" }
@@ -42519,7 +42492,6 @@ WordHunterWoW_Dictionary_IT["ozzerfa"] = { word = "ozzerfa", translation = "ozze
 WordHunterWoW_Dictionary_IT["ozzie"] = { word = "Ozzie", translation = "Ozzie", note = "" }
 WordHunterWoW_Dictionary_IT["ozzimoro"] = { word = "ozzimoro", translation = "ozzimoro", note = "" }
 WordHunterWoW_Dictionary_IT["ozzuk"] = { word = "Ozzuk", translation = "Ozzuk", note = "" }
-WordHunterWoW_Dictionary_IT["oído"] = { word = "oído", translation = "oído", note = "" }
 WordHunterWoW_Dictionary_IT["p-promettimi"] = { word = "P-promettimi", translation = "P-promise me", note = "" }
 WordHunterWoW_Dictionary_IT["pa'ku"] = { word = "Pa'ku", translation = "Pa'ku", note = "" }
 WordHunterWoW_Dictionary_IT["pa-bzzz-esca"] = { word = "pa-bzzz-esca", translation = "pa-bzzz-bait", note = "" }
@@ -43898,7 +43870,6 @@ WordHunterWoW_Dictionary_IT["perseguitato"] = { word = "perseguitato", translati
 WordHunterWoW_Dictionary_IT["perseguiterà"] = { word = "perseguiterà", translation = "will persecute; will pursue", note = "" }
 WordHunterWoW_Dictionary_IT["perseguiterò"] = { word = "perseguiterò", translation = "I will persecute", note = "" }
 WordHunterWoW_Dictionary_IT["perseguono"] = { word = "perseguono", translation = "they pursue", note = "" }
-WordHunterWoW_Dictionary_IT["perseguían"] = { word = "perseguían", translation = "they persecuted", note = "" }
 WordHunterWoW_Dictionary_IT["persero"] = { word = "persero", translation = "they lost", note = "" }
 WordHunterWoW_Dictionary_IT["persevera"] = { word = "persevera", translation = "persevere", note = "" }
 WordHunterWoW_Dictionary_IT["perseveranza"] = { word = "perseveranza", translation = "perseverance", note = "perseverare (persist) + -anza, a noun-forming suffix for a quality" }
@@ -44562,8 +44533,6 @@ WordHunterWoW_Dictionary_IT["pigmenti"] = { word = "pigmenti", translation = "pi
 WordHunterWoW_Dictionary_IT["pigmento"] = { word = "pigmento", translation = "pigment", note = "pigmento is a direct cognate of English pigment" }
 WordHunterWoW_Dictionary_IT["pigmeo"] = { word = "pigmeo", translation = "pygmy", note = "from Greek pygmaios, meaning dwarf-sized" }
 WordHunterWoW_Dictionary_IT["pignadura"] = { word = "Pignadura", translation = "Pignadura", note = "reads as pigna (pine cone) + dura (hard); the English place name could not be confirmed" }
-WordHunterWoW_Dictionary_IT["pignatta"] = { word = "Pignatta", translation = "Piñata", note = "" }
-WordHunterWoW_Dictionary_IT["pignatte"] = { word = "pignatte", translation = "pots", note = "FALSE FRIEND: Italian earthenware cooking pots, NOT piñatas; pignatta = clay pot for stewing" }
 WordHunterWoW_Dictionary_IT["pigne"] = { word = "pigne", translation = "pine cones", note = "plural of pigna; the cones of pine trees" }
 WordHunterWoW_Dictionary_IT["pignola"] = { word = "pignola", translation = "fussy", note = "" }
 WordHunterWoW_Dictionary_IT["pignoli"] = { word = "pignoli", translation = "picky", note = "" }
@@ -44937,8 +44906,6 @@ WordHunterWoW_Dictionary_IT["poderose"] = { word = "poderose", translation = "po
 WordHunterWoW_Dictionary_IT["poderosi"] = { word = "poderosi", translation = "powerful", note = "" }
 WordHunterWoW_Dictionary_IT["poderoso"] = { word = "poderoso", translation = "mighty", note = "from potere (power); mighty is natural for a forceful assault" }
 WordHunterWoW_Dictionary_IT["podio"] = { word = "podio", translation = "podium", note = "" }
-WordHunterWoW_Dictionary_IT["podría"] = { word = "podría", translation = "podría", note = "" }
-WordHunterWoW_Dictionary_IT["podrías"] = { word = "Podrías", translation = "Podrias", note = "" }
 WordHunterWoW_Dictionary_IT["poema"] = { word = "poema", translation = "poem", note = "" }
 WordHunterWoW_Dictionary_IT["poen"] = { word = "Poen", translation = "Poen", note = "" }
 WordHunterWoW_Dictionary_IT["poesia"] = { word = "Poesia", translation = "poetry", note = "poesia can refer to poetry in general or to a specific poem" }
@@ -49255,7 +49222,6 @@ WordHunterWoW_Dictionary_IT["reietti"] = { word = "Reietti", translation = "Fors
 WordHunterWoW_Dictionary_IT["reietto"] = { word = "Reietto", translation = "Outcast", note = "literal reading; it may be the faction term Forsaken, but this context does not confirm that" }
 WordHunterWoW_Dictionary_IT["reimpossessarti"] = { word = "reimpossessarti", translation = "repossess you", note = "" }
 WordHunterWoW_Dictionary_IT["reimpostare"] = { word = "reimpostare", translation = "reset", note = "technical term: re- + impostare (to set/configure)" }
-WordHunterWoW_Dictionary_IT["reinará"] = { word = "reinará", translation = "will reinará", note = "" }
 WordHunterWoW_Dictionary_IT["reincarnare"] = { word = "reincarnare", translation = "reincarnate", note = "" }
 WordHunterWoW_Dictionary_IT["reincarnazione"] = { word = "reincarnazione", translation = "reincarnation", note = "" }
 WordHunterWoW_Dictionary_IT["reincontrarci"] = { word = "reincontrarci", translation = "meet again", note = "" }
@@ -54572,7 +54538,6 @@ WordHunterWoW_Dictionary_IT["scalda"] = { word = "scalda", translation = "warm",
 WordHunterWoW_Dictionary_IT["scaldacuscini"] = { word = "scaldacuscini", translation = "cushion warmers", note = "" }
 WordHunterWoW_Dictionary_IT["scaldando"] = { word = "scaldando", translation = "heating", note = "" }
 WordHunterWoW_Dictionary_IT["scaldapietra"] = { word = "Scaldapietra", translation = "Stone heater", note = "" }
-WordHunterWoW_Dictionary_IT["scaldapignatta"] = { word = "Scaldapignatta", translation = "Piñata warmer", note = "" }
 WordHunterWoW_Dictionary_IT["scaldapignatte"] = { word = "Scaldapignatte", translation = "Pint warmer", note = "" }
 WordHunterWoW_Dictionary_IT["scaldare"] = { word = "scaldare", translation = "warm up", note = "infinitive" }
 WordHunterWoW_Dictionary_IT["scaldarlo"] = { word = "scaldarlo", translation = "heat it up", note = "" }
@@ -56710,7 +56675,6 @@ WordHunterWoW_Dictionary_IT["servirsi"] = { word = "servirsi", translation = "us
 WordHunterWoW_Dictionary_IT["servirtene"] = { word = "servirtene", translation = "use it", note = "" }
 WordHunterWoW_Dictionary_IT["servirti"] = { word = "servirti", translation = "be useful to you", note = "servire a qualcuno means be useful to someone; -ti means to you" }
 WordHunterWoW_Dictionary_IT["servirà"] = { word = "servirà", translation = "you will need", note = "ti servirà means you will need it; literally, it will be useful to you" }
-WordHunterWoW_Dictionary_IT["servirá"] = { word = "servirá", translation = "it will serve", note = "" }
 WordHunterWoW_Dictionary_IT["servirò"] = { word = "servirò", translation = "I will use it", note = "servirsi di means use; despite the root, it does not mean serve here" }
 WordHunterWoW_Dictionary_IT["servisse"] = { word = "servisse", translation = "needed", note = "servire can mean be needed; servisse is imperfect subjunctive after se" }
 WordHunterWoW_Dictionary_IT["servissero"] = { word = "servissero", translation = "were for", note = "in a cosa servissero, the imperfect subjunctive asks what they were for" }
@@ -56741,9 +56705,7 @@ WordHunterWoW_Dictionary_IT["servocomandi"] = { word = "servocomandi", translati
 WordHunterWoW_Dictionary_IT["servomeccanismi"] = { word = "servomeccanismi", translation = "servomechanisms", note = "" }
 WordHunterWoW_Dictionary_IT["servono"] = { word = "servono", translation = "I need; are needed", note = "mi servono means I need them, literally they are useful to me" }
 WordHunterWoW_Dictionary_IT["servì"] = { word = "servì", translation = "served", note = "" }
-WordHunterWoW_Dictionary_IT["será"] = { word = "será", translation = "evening", note = "" }
 WordHunterWoW_Dictionary_IT["seré"] = { word = "seré", translation = "evening", note = "" }
-WordHunterWoW_Dictionary_IT["sería"] = { word = "Sería", translation = "Series", note = "" }
 WordHunterWoW_Dictionary_IT["seshteng"] = { word = "Seshteng", translation = "Seshteng", note = "" }
 WordHunterWoW_Dictionary_IT["seshuli"] = { word = "Seshuli", translation = "Seshuli", note = "" }
 WordHunterWoW_Dictionary_IT["seska"] = { word = "Seska", translation = "Seska", note = "" }
@@ -57944,7 +57906,6 @@ WordHunterWoW_Dictionary_IT["site"] = { word = "site", translation = "site", not
 WordHunterWoW_Dictionary_IT["sithis"] = { word = "Sithis", translation = "Sithis", note = "" }
 WordHunterWoW_Dictionary_IT["siti"] = { word = "Siti", translation = "Sites", note = "sito can mean a physical site or a website; here it is a physical location" }
 WordHunterWoW_Dictionary_IT["sito"] = { word = "sito", translation = "site", note = "sito di scavo = excavation site" }
-WordHunterWoW_Dictionary_IT["situación"] = { word = "situación", translation = "situation", note = "" }
 WordHunterWoW_Dictionary_IT["situata"] = { word = "situata", translation = "located", note = "situato agrees with feminine grotta as situata" }
 WordHunterWoW_Dictionary_IT["situate"] = { word = "situate", translation = "located", note = "past participle of situare (to situate); archaic/formal English \"situate\"" }
 WordHunterWoW_Dictionary_IT["situati"] = { word = "situati", translation = "located", note = "past participle as adjective; positioned where they are" }
@@ -61868,7 +61829,6 @@ WordHunterWoW_Dictionary_IT["superiori"] = { word = "superiori", translation = "
 WordHunterWoW_Dictionary_IT["superiorità"] = { word = "superiorità", translation = "superiority", note = "superiore means superior; -ità forms the noun" }
 WordHunterWoW_Dictionary_IT["superlativa"] = { word = "superlativa", translation = "superlative", note = "feminine adjective form" }
 WordHunterWoW_Dictionary_IT["supermeccanico"] = { word = "Supermeccanico", translation = "Supermechanic", note = "" }
-WordHunterWoW_Dictionary_IT["superpoblación"] = { word = "superpoblación", translation = "superpopulation", note = "" }
 WordHunterWoW_Dictionary_IT["superponte"] = { word = "superponte", translation = "superbridge", note = "" }
 WordHunterWoW_Dictionary_IT["superpotenziati"] = { word = "Superpotenziati", translation = "Superpowered", note = "past participle of superpotenziare (to superpower)" }
 WordHunterWoW_Dictionary_IT["superpotenziato"] = { word = "Superpotenziato", translation = "Superpowered", note = "" }
@@ -62515,7 +62475,6 @@ WordHunterWoW_Dictionary_IT["talvethren"] = { word = "Talvethren", translation =
 WordHunterWoW_Dictionary_IT["talvolta"] = { word = "Talvolta", translation = "sometimes", note = "tal (such) + volta (time), literally at such a time; volta is the counting word for occasions" }
 WordHunterWoW_Dictionary_IT["tamanji"] = { word = "Tamanji", translation = "Tamanji", note = "" }
 WordHunterWoW_Dictionary_IT["tamara"] = { word = "Tamara", translation = "Tamara", note = "" }
-WordHunterWoW_Dictionary_IT["tamaño"] = { word = "tamaño", translation = "tamaño", note = "" }
 WordHunterWoW_Dictionary_IT["tambre"] = { word = "Tambre", translation = "Tamber", note = "" }
 WordHunterWoW_Dictionary_IT["tamburi"] = { word = "tamburi", translation = "drums", note = "plural of tamburo; tamburi di guerra means war drums" }
 WordHunterWoW_Dictionary_IT["tamburina"] = { word = "Tamburina", translation = "Drummer girl", note = "" }
@@ -63008,7 +62967,6 @@ WordHunterWoW_Dictionary_IT["tendone"] = { word = "tendone", translation = "marq
 WordHunterWoW_Dictionary_IT["tendoni"] = { word = "Tendoni", translation = "Awnings", note = "" }
 WordHunterWoW_Dictionary_IT["tendono"] = { word = "tendono", translation = "lay", note = "tendere un'imboscata = to lay an ambush; tendono is the plural present form" }
 WordHunterWoW_Dictionary_IT["tendris"] = { word = "Tendris", translation = "Tendris", note = "" }
-WordHunterWoW_Dictionary_IT["tendrás"] = { word = "tendrás", translation = "tendrás", note = "" }
 WordHunterWoW_Dictionary_IT["teneb'rel"] = { word = "Teneb'rel", translation = "Teneb'rel", note = "" }
 WordHunterWoW_Dictionary_IT["tenebra"] = { word = "Tenebra", translation = "Darkness", note = "tenebra is ominous or literary darkness; luce is the ordinary word for light" }
 WordHunterWoW_Dictionary_IT["tenebranima"] = { word = "Tenebranima", translation = "Darksoul", note = "official English item or set name; tenebra plus anima is darkness plus soul" }
@@ -63897,7 +63855,6 @@ WordHunterWoW_Dictionary_IT["toccosolare"] = { word = "Toccosolare", translation
 WordHunterWoW_Dictionary_IT["toccoterrestre"] = { word = "Toccoterrestre", translation = "Earthtouch", note = "" }
 WordHunterWoW_Dictionary_IT["toccò"] = { word = "toccò", translation = "touch", note = "" }
 WordHunterWoW_Dictionary_IT["tock"] = { word = "Tock", translation = "Tock", note = "" }
-WordHunterWoW_Dictionary_IT["todavía"] = { word = "Todavía", translation = "Todavia", note = "" }
 WordHunterWoW_Dictionary_IT["today"] = { word = "today", translation = "today", note = "" }
 WordHunterWoW_Dictionary_IT["todd"] = { word = "Todd", translation = "Todd", note = "" }
 WordHunterWoW_Dictionary_IT["toddy"] = { word = "Toddy", translation = "Toddy", note = "" }
@@ -69664,11 +69621,7 @@ WordHunterWoW_Dictionary_IT["zzz"] = { word = "Zzz", translation = "Zzz", note =
 WordHunterWoW_Dictionary_IT["zzzap"] = { word = "Zzzap", translation = "Zzzap", note = "" }
 WordHunterWoW_Dictionary_IT["zzzzzzzzzzzz"] = { word = "ZZZZzzzzzzzz", translation = "ZZZZzzzzzzzz", note = "" }
 WordHunterWoW_Dictionary_IT["zì"] = { word = "Zì", translation = "Zi", note = "" }
-WordHunterWoW_Dictionary_IT["ánima"] = { word = "ánima", translation = "soul", note = "the Spanish word ánima means soul; Italian normally writes anima without the accent" }
-WordHunterWoW_Dictionary_IT["árbol"] = { word = "árbol", translation = "tree", note = "" }
 WordHunterWoW_Dictionary_IT["è"] = { word = "è", translation = "is", note = "essere, 3rd person singular; the accent separates it from e (and)" }
 WordHunterWoW_Dictionary_IT["élite"] = { word = "élite", translation = "elite", note = "élite is a French loanword in Italian; English usually drops the accent" }
 WordHunterWoW_Dictionary_IT["éter"] = { word = "éter", translation = "ether", note = "" }
-WordHunterWoW_Dictionary_IT["última"] = { word = "última", translation = "latest", note = "" }
-WordHunterWoW_Dictionary_IT["útil"] = { word = "útil", translation = "useful", note = "" }
 end)()
