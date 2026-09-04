@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_IT = WordHunterWoW_Dictionary_IT or {}
+;(function()
 WordHunterWoW_Dictionary_IT["a"] = { word = "a", translation = "to; at", note = "preposition; combines with articles as al, alla, ai" }
 WordHunterWoW_Dictionary_IT["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_IT["a'dal's"] = { word = "A'dal's", translation = "A'dal's", note = "" }
@@ -19999,6 +20000,8 @@ WordHunterWoW_Dictionary_IT["eaton"] = { word = "Eaton", translation = "Eaton", 
 WordHunterWoW_Dictionary_IT["eau"] = { word = "Eau", translation = "Eau", note = "" }
 WordHunterWoW_Dictionary_IT["ebania"] = { word = "Ebania", translation = "Ebania", note = "" }
 WordHunterWoW_Dictionary_IT["ebano"] = { word = "ebano", translation = "ebony", note = "ebano is also used for the very dark color; here it describes the rock's appearance" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_IT["ebbe"] = { word = "ebbe", translation = "began", note = "ebbe is passato remoto of avere, but tutto ebbe inizio is the fixed phrase it all began" }
 WordHunterWoW_Dictionary_IT["ebbene"] = { word = "Ebbene", translation = "well then", note = "discourse marker introducing a conclusion or a turn in the conversation" }
 WordHunterWoW_Dictionary_IT["ebbero"] = { word = "ebbero", translation = "they had", note = "the passato remoto ending -ero gives a completed past action" }
@@ -39999,6 +40002,8 @@ WordHunterWoW_Dictionary_IT["necessiti"] = { word = "necessiti", translation = "
 WordHunterWoW_Dictionary_IT["necessitiamo"] = { word = "necessitiamo", translation = "we need", note = "" }
 WordHunterWoW_Dictionary_IT["necessito"] = { word = "necessito", translation = "I need", note = "" }
 WordHunterWoW_Dictionary_IT["necessità"] = { word = "necessità", translation = "need", note = "in momento di necessità means in a time of need" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_IT["necessitò"] = { word = "necessitò", translation = "needed", note = "" }
 WordHunterWoW_Dictionary_IT["neck"] = { word = "neck", translation = "neck", note = "" }
 WordHunterWoW_Dictionary_IT["necro-scorazzare"] = { word = "necro-scorazzare", translation = "necro-scouse", note = "" }
@@ -59999,6 +60004,8 @@ WordHunterWoW_Dictionary_IT["spingersi"] = { word = "spingersi", translation = "
 WordHunterWoW_Dictionary_IT["spingerti"] = { word = "spingerti", translation = "push yourself", note = "the reflexive ending -ti makes spingerti beyond mean push yourself further" }
 WordHunterWoW_Dictionary_IT["spingerà"] = { word = "spingerà", translation = "push", note = "future third-person form of spingere; English uses push after will" }
 WordHunterWoW_Dictionary_IT["spingerò"] = { word = "spingerò", translation = "I'll push", note = "" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_IT["spingesse"] = { word = "spingesse", translation = "pushed", note = "" }
 WordHunterWoW_Dictionary_IT["spingi"] = { word = "spingi", translation = "push", note = "" }
 WordHunterWoW_Dictionary_IT["spingicarro"] = { word = "Spingicarro", translation = "Tank pusher", note = "" }
@@ -69664,3 +69671,4 @@ WordHunterWoW_Dictionary_IT["élite"] = { word = "élite", translation = "elite"
 WordHunterWoW_Dictionary_IT["éter"] = { word = "éter", translation = "ether", note = "" }
 WordHunterWoW_Dictionary_IT["última"] = { word = "última", translation = "latest", note = "" }
 WordHunterWoW_Dictionary_IT["útil"] = { word = "útil", translation = "useful", note = "" }
+end)()
