@@ -2,7 +2,7 @@
 
 Learning Italian from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made Italian→English glossary built from real quest text, so the words you click already have a meaning waiting. **69,618 words.**
+This is a ready-made Italian→English glossary built from real quest text, so the words you click already have a meaning waiting. **80,143 words.**
 
 ## Install
 
@@ -20,6 +20,8 @@ This dictionary is read only when its language is the one you are learning, so h
 ## Good to know
 
 These translations are machine-made. They will get you through a quest, but expect the odd word to be off — a name translated literally, or the wrong sense of a word that has several. Fix any of them as you go; your edit sticks.
+
+**10,520 words were added on 2026-11-14** from Italian game text that quest dialogue does not contain: spell and aura descriptions, item descriptions, what NPCs say, quest objectives and achievement descriptions (the retail game's data tables). Names of items and spells were not taken. These glosses are machine translations too and have not been read through by hand.
 
 The [German pack](https://github.com/Ironship/WordHunterWoW-Dictionary-DE) is the one that has been checked by hand, word by word.
 

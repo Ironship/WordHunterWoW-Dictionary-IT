@@ -33,6 +33,13 @@ Modifications made by Ironship, 2 September 2026:
 The import is performed by Tools/import_multilanguage.py, which is part of the
 corresponding source of this work.
 
+Italian game text of the retail client was also read, as the data tables
+published by wago.tools (https://wago.tools), on 14 November 2026: spell and
+aura descriptions, item descriptions, NPC speech, quest objectives and
+achievement descriptions. Only single words were taken from it, 10,520 of
+them, each with a machine English translation. Names of items and spells were
+not taken, and no sentence is reproduced.
+
 World of Warcraft content and materials are trademarks and copyrights of
 Blizzard Entertainment or its licensors. This addon is not affiliated with or
 endorsed by Blizzard Entertainment, and the GNU General Public License above
